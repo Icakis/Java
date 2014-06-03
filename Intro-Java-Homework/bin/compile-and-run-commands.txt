@@ -1,0 +1,11 @@
+Using Linux:
+1.Open Terminal.
+2. Go to folder containing SumTwoNumbers.java. 
+command: cd /home/user/workspace/Intro-Java-Homework/src
+*for your system will be different.
+3. Compile the file SumTwoNumbers.java. 
+command: javac SumTwoNumbers.java
+Now we have second file SumTwoNumbers.class
+4.Run it.
+command: java SumTwoNumbers
+5.Input 2 integers
